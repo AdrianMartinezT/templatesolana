@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hellomoon/api": "^1.15.0-alpha.19",
     "@metaplex-foundation/js": "^0.17.12",
     "@solana/web3.js": "^1.75.0",
     "@thirdweb-dev/react": "^3.11.7",
