@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@metaplex-foundation/js": "^0.17.12",
     "@solana/web3.js": "^1.75.0",
     "@thirdweb-dev/react": "^3.11.7",
     "next": "13.2.4",
+    "next-connect": "^0.13.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hot-toast": "^2.4.0"
