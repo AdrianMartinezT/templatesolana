@@ -12,6 +12,27 @@ yarn dev
 pnpm dev
 ```
 
+
+```update
+yarn add rpc-websockets
+# or
+npm install rpc-websockets
+
+#next
+yarn add @solana/web3.js@latest
+#or 
+npm install @solana/web3.js@latest
+
+#next
+rm -rf .next
+yarn build
+yarn dev
+
+```
+
+
+update 
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
